@@ -6,7 +6,7 @@ import os
 import subprocess
 import time
 
-version_file = 'hat/version.py'
+version_file = 'vansr/version.py'
 
 
 def readme():
